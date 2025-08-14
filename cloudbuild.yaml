@@ -1,4 +1,4 @@
-# stage2
+# stage3
 steps:
    - id: Build the Image
      name: 'gcr.io/cloud-builders/docker'
